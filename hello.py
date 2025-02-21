@@ -1,3 +1,3 @@
-print("Hello Geethu, I am Pavan")
+print("Hello Geethu")
 print("Geethu")
 print("Geethu")
